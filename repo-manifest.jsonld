@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/static/commit/a9ba437d9fbbe92076a24b20d56449ac7c7786ac",
       "git:hexsha": "a9ba437d9fbbe92076a24b20d56449ac7c7786ac",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
